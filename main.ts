@@ -1,5 +1,5 @@
-let Pořadí = 9
-while (Pořadí > 0) {
+let Pořadí = 1
+while (Pořadí <= 9) {
     basic.showNumber(Pořadí)
-    Pořadí += -2
+    Pořadí += 2
 }
